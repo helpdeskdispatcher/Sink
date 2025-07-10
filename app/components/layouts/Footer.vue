@@ -18,7 +18,7 @@ const { title, email, telegram, blog, twitter, mastodon, github } = useAppConfig
         target="_blank"
         title="Dispatcher"
       >
-        &copy; {{ new Date().getFullYear() }}
+        &copy; {{ new Date().getFullYear() }} Link Shortener.
       </a>
       
     </div>
